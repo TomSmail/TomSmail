@@ -1,7 +1,23 @@
-### You have reached my profile!
-<div align='center'></div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSmail)](https://github.com/anuraghazra/github-readme-stats)
-[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomSmail)](https://github.com/anuraghazra/github-readme-stats)
+# Tom Smail's Profile :collision:
+
+Tom's TODO List:
+- [x] Get on a Hackathon Podium
+- [x] Get an Interships at a Startup
+- [x] Get into ICL
+- [x] Complete Gold DofE
+- [ ] Get an Internship with a MAGMA
+- [ ] Place first at a big Hackathon
+- [ ] Walk Hadrians Wall
+- [x] Have Fun
+
+
+[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomSmail&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSmail&theme=radical&layout=compact&hide=Roff)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **TomSmail/TomSmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
