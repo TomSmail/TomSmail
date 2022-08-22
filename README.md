@@ -14,10 +14,10 @@ Tom's TODO List:
  
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tom-smail)
 
-[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomSmail&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomSmail&theme=radical&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSmail&theme=radical&layout=compact&hide=Roff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSmail&theme=radical&layout=compact&exclude_repo=WellBeingApp&hide=Roff,jupyter%20notebook&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
