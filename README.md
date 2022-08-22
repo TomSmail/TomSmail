@@ -10,11 +10,14 @@ Tom's TODO List:
 - [ ] Walk Hadrians Wall
 - [x] Have Fun
 
+ If you can help me achieve any of the above please don't hesitate to send me a message via linkedin! 
+ 
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tom-smail)
 
 [![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomSmail&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSmail&theme=radical&layout=compact&hide=Roff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSmail&theme=radical&layout=compact&hide=Roff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
