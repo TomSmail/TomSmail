@@ -1,7 +1,7 @@
 ### You have reached my profile!
 <div align='center'></div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSmail)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomSmail)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TomSmail/TomSmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
