@@ -7,7 +7,6 @@ Tom's TODO List:
 - [x] Complete Gold DofE
 - [ ] Get an Internship with a MAGMA
 - [ ] Place first at a big Hackathon
-- [ ] Walk Hadrians Wall
 - [x] Have Fun
 
  If you can help me achieve any of the above please don't hesitate to send me a message via linkedin! 
