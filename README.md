@@ -1,15 +1,6 @@
 # Tom Smail's Profile :collision:
 
-Tom's TODO List:
-- [x] Get on a Hackathon Podium
-- [x] Get an Interships at a Startup
-- [x] Get into ICL
-- [x] Complete Gold DofE
-- [ ] Get an Internship with a MAGMA
-- [ ] Place first at a big Hackathon
-- [x] Have Fun
-
- If you can help me achieve any of the above please don't hesitate to send me a message via linkedin! 
+Please don't hesitate to send me a message via linkedin! 
  
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tom-smail)
 
